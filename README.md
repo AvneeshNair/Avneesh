@@ -38,16 +38,14 @@ I am a motivated and detail-oriented aspiring cybersecurity professional with a 
 This repository highlights selected projects that demonstrate my practical skills and learning progress.
 
 ### Featured Work
-- **Security Risk Analysis Case Study**  
-  Analyzed potential threats and vulnerabilities in a simulated environment and proposed mitigation strategies.
 
-- **Log Analysis & Incident Detection**  
-  Investigated system and network logs to identify suspicious activity and potential security incidents.
+#### 🧸 Botium Toys – Internal IT Security Audit
+- Conducted an internal IT security audit for a fictional organization using the **NIST Cybersecurity Framework (CSF)**.
+- Assessed **administrative, technical, and physical controls**, and evaluated compliance with **PCI DSS, GDPR, and SOC (Type 1 / Type 2)** requirements.
+- Identified key security gaps including lack of least privilege, absence of encryption, missing backups, and insufficient monitoring controls.
+- Produced a formal **Controls and Compliance Checklist** with documented findings and recommendations.
 
-- **Hands-on Labs & Write-ups**  
-  Documented learning from platforms such as TryHackMe / Hack The Box, focusing on defensive and analytical techniques.
-
-(See individual repositories for detailed documentation and methodologies.)
+🔗 **Repository:** https://github.com/Avneesh/botium-toys-internal-audit
 
 ---
 
@@ -66,8 +64,8 @@ This repository highlights selected projects that demonstrate my practical skill
 ---
 
 ## Contact
-- LinkedIn: [Your LinkedIn URL]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/avneesh-nair/
+- Email: nairavneesh10@gmail.com
 
 ---
 
